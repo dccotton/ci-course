@@ -1,6 +1,6 @@
 # OxRSE Continuous Integration course
 [![Run unit tests](https://github.com/dccotton/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/dccotton/ci-course/actions/workflows/unit-tests.yml)
-
+[![Run unit tests](https://github.com/dccotton/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/dccotton/ci-course/actions/workflows/unit-tests.yml)
 This project contains a small Python project. We are going to use free cloud services to automate:
 
 - unit testing on multiple Python versions
