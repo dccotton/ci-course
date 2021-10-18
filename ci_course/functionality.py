@@ -15,7 +15,6 @@ def greet(name=""):
     str
         The greeting
     """
-    #return f"Hello {name}"
     return "Hello {}".format(name)
 
 
