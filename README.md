@@ -2,6 +2,7 @@
 [![Run unit tests](https://github.com/dccotton/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/dccotton/ci-course/actions/workflows/unit-tests.yml)
 [![CI](https://github.com/dccotton/ci-course/actions/workflows/test-ci.yml/badge.svg)](https://github.com/dccotton/ci-course/actions/workflows/test-ci.yml)
 [![codecov](https://codecov.io/gh/dccotton/ci-course/branch/main/graph/badge.svg?token=6JM0Z7ATQ5)](https://codecov.io/gh/dccotton/ci-course)
+[![BCH compliance](https://bettercodehub.com/edge/badge/dccotton/ci-course?branch=main)](https://bettercodehub.com/)
 
 This project contains a small Python project. We are going to use free cloud services to automate:
 
