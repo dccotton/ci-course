@@ -1,6 +1,9 @@
 # OxRSE Continuous Integration course
 [![Run unit tests](https://github.com/dccotton/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/dccotton/ci-course/actions/workflows/unit-tests.yml)
-[![CI](https://github.com/dccotton/ci-course/actions/workflows/test-ci.yml/badge.svg)](https://github.com/dccotton/ci-course/actions/workflows/test-ci.yml)This project contains a small Python project. We are going to use free cloud services to automate:
+[![CI](https://github.com/dccotton/ci-course/actions/workflows/test-ci.yml/badge.svg)](https://github.com/dccotton/ci-course/actions/workflows/test-ci.yml)
+[![codecov](https://codecov.io/gh/dccotton/ci-course/branch/main/graph/badge.svg?token=6JM0Z7ATQ5)](https://codecov.io/gh/dccotton/ci-course)
+
+This project contains a small Python project. We are going to use free cloud services to automate:
 
 - unit testing on multiple Python versions
 - unit testing on multiple operating systems
